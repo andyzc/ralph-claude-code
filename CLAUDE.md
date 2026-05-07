@@ -12,7 +12,7 @@ See [README.md](README.md) for version info, changelog, and user documentation.
 
 The system consists of four main bash scripts and a modular library system:
 
-### Main Scripts
+### Main Scripts ....
 
 1. **ralph_loop.sh** - The main autonomous loop that executes Claude Code repeatedly
 2. **ralph_monitor.sh** - Live monitoring dashboard for tracking loop status
